@@ -6,7 +6,7 @@
 import utime
 import run_sds011
 
-
+print("startup")
 while True:
     utime.sleep(1)
     print('Attempt to Send')
